@@ -1,0 +1,5 @@
+server:
+  port: 7000
+
+  tomcat:
+    max-threads: 100000
